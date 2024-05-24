@@ -20,6 +20,7 @@
     --light-pink-2: #e4a3b1;
     --off-white: #f5f4f1;
     --black: #000000;
+    --cream: #f7e9d5;
 }
 body{
     font-family: 'Poppins', sans-serif;
@@ -45,7 +46,7 @@ img{
 
 /* Navar */
 .navbar {
-    background: #f7e9d5;
+    background: var(--cream);
     padding: 20px;
 }
 
